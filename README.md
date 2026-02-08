@@ -5,9 +5,9 @@ It demonstrates my hands-on skills in networking, including subnetting, routing,
 
 ## Labs Included
 ###  Routing Lab : IPv4 Static – Network
-[Scenario](Lab-01-Routing-IPv4-Static-Network/lab-scenario.md) | 
-[Diagram](Lab-01-Routing-IPv4-Static-Network/network-diagram.png) | 
-[Packet Tracer](Lab-01-Routing-IPv4-Static-Network/lab01.pkt)
+[Scenario](Routing-IPv4-Static-Network/lab-scenario.md) | 
+[Diagram](Routing-IPv4-Static-Network/network-diagram.png) | 
+[Packet Tracer](Routing-IPv4-Static-Network/Routing-IPv4-Static-Network.pkt)
 
 ## Purpose
 - Document my CCNA knowledge
