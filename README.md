@@ -4,9 +4,10 @@ This repository contains my CCNA practical labs completed using Cisco Packet Tra
 It demonstrates my hands-on skills in networking, including subnetting, routing, and switching.
 
 ## Labs Included
-1. **Subnetting Lab** – basic IP addressing, VLSM practice  
-2. **Routing Lab** – configuring RIP, OSPF, and static routes  
-3. **Switching Lab** – VLAN setup, trunking, STP
+###  Routing Lab : IPv4 Static – Network
+[Scenario](Lab-01-Routing-IPv4-Static-Network/lab-scenario.md) | 
+[Diagram](Lab-01-Routing-IPv4-Static-Network/network-diagram.png) | 
+[Packet Tracer](Lab-01-Routing-IPv4-Static-Network/lab01.pkt)
 
 ## Purpose
 - Document my CCNA knowledge
